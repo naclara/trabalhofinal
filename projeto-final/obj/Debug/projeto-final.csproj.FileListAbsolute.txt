@@ -1,0 +1,6 @@
+C:\Users\aluno\Desktop\projeto-final\projeto-final\bin\Debug\projeto-final.exe.config
+C:\Users\aluno\Desktop\projeto-final\projeto-final\bin\Debug\projeto-final.exe
+C:\Users\aluno\Desktop\projeto-final\projeto-final\bin\Debug\projeto-final.pdb
+C:\Users\aluno\Desktop\projeto-final\projeto-final\obj\Debug\projeto-final.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\projeto-final\projeto-final\obj\Debug\projeto-final.exe
+C:\Users\aluno\Desktop\projeto-final\projeto-final\obj\Debug\projeto-final.pdb
